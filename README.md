@@ -3,4 +3,5 @@
 
 |날짜|푼 문제 1|푼 문제 2|
 |------|---|---|
-|6/21|[별 찍기 - 7](https://www.acmicpc.net/problem/2444)|[별 찍기 - 8](https://www.acmicpc.net/problem/2445)|
+|2022.06.21.|[별 찍기 - 7](https://www.acmicpc.net/problem/2444)|[별 찍기 - 8](https://www.acmicpc.net/problem/2445)|
+|2022.06.22.|[피보나치 함수](https://www.acmicpc.net/problem/1003)|[2진수 8진수](https://www.acmicpc.net/problem/1373)|
