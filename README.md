@@ -7,3 +7,4 @@
 |2022.06.22.|[피보나치 함수](https://www.acmicpc.net/problem/1003)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[2진수 8진수](https://www.acmicpc.net/problem/1373)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>|
 |2022.06.23.|[숫자의 합](https://www.acmicpc.net/problem/11720)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/>|[사칙연산](https://www.acmicpc.net/problem/13420)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|
 |2022.06.24.|[평균](https://www.acmicpc.net/problem/1546)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>|[평균은 넘겠지](https://www.acmicpc.net/problem/4344)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>|
+|2022.06.25|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|Level1|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|Level1|
