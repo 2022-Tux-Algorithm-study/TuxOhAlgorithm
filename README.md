@@ -9,3 +9,4 @@
 |2022.06.24.|[평균](https://www.acmicpc.net/problem/1546)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>|[평균은 넘겠지](https://www.acmicpc.net/problem/4344)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>||
 |2022.06.25|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|Level1|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|Level1||
 |2022.06.27.|[수 정렬하기](https://www.acmicpc.net/problem/2750)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>|정렬|
+|2022.06.28.|[ATM](https://www.acmicpc.net/problem/11399)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[K번째 수](https://www.acmicpc.net/problem/11004)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|정렬|
