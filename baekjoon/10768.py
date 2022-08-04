@@ -1,16 +1,16 @@
 # 특별한 날
 
-month = int(input())
-day = int(input())
+m = int(input())
+d = int(input())
 
-if month > 2:
-    print("After")
-elif month < 2:
-    print("Before")
-else:
-  if day < 18:
-      print("Before")
-  elif day > 18:
-      print("After")
+if m < 2:
+  print('Before')
+elif m == 2:
+  if d < 18:
+    print('Before')
+  elif d > 18:
+    print('After')
   else:
-    print("Special")
+    print('Special')
+else:
+  print('After')
